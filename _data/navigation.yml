@@ -14,10 +14,6 @@ main:
         
 #  - title: "Old Blog"
 #    url: "https://web.archive.org/web/20191019042912/http://pritishc.com/"
-
-  - title: "Home"
-    url: /
-
   - title: "Blog Posts"
     url: /year-archive/
     
