@@ -25,7 +25,7 @@ I solved PYQs for all subjects, but I specifically mention them in some subjects
 5. Operating Systems: Galvin for some topics, Stallings for memory management and a bit of synchronization. NPTEL videos by Prof PK Biswas of IIT Kharagpur for topics such as synchronization, file systems.
 6. Compiler Design: Mostly the Dragon book. I tried to solve exercise problems by myself and used this [Github repository](https://github.com/fool2fish/dragon-book-exercise-answers) to self-check answers. A background in theory of computation is mandatory.
 7. Theory of Computation: NPTEL videos by Prof Kamala Krithivasan of IIT Madras. PYQs in GO PDF Vol 2, of which the majority were problems on regular languages, regular expressions, minimal state automata. Prof Shai Simonson's ADuni videos for decidability. GO for Rice's theorem and some university PDFs on reduction, although Shai's videos have a better way of explaining.
-8. Digital Logic: Morris Mano for making notes and some problems. Mostly PYQs for problem solving.
+8. Digital Logic: Morris Mano for making notes and some problems. NPTEL lectures by Prof Srinivasan of IITM. Mostly PYQs for problem solving.
 9. Computer Organization and Architecture: NPTEL videos by Prof Matthew Jacob of IISc, especially for topics like pipelining and cache memory, although these are _not_ enough. This is a subject that should be covered in depth from standard books and videos. PYQs cover the vast majority of possible question types.
 10. Mathematics: Rosen for discrete mathematics concepts and some solved problems. Erwin Kryszig for Linear Algebra. Sheldon Ross for probability. NPTEL videos by Prof Kamala for group theory and some other topics that have appeared in GATE. Some PDFs prepared by Arjun Suresh of GO for topics like combinatorics, graph theory (conceptual understanding) although I don't remember where I found them.
 
@@ -54,4 +54,4 @@ I didn't quite get the rank I wanted, but it was enough to apply to MS programs 
 Interview Preparation
 ---------------------
 
-I focussed on linear algebra and probability. For this, I used Prof Strang's LA lectures+recitations+problems, and Prof Tsitsiklis's Probability lectures+recitations+problems (upto lecture 9 - ideally the whole course should be covered).
+I focussed on linear algebra and probability. For this, I used Prof Strang's LA lectures+recitations+problems, and Prof Tsitsiklis's Probability lectures+recitations+problems (upto lecture 9 - ideally the whole course should be covered). If you are aiming for AI/ML (the IITs/IISc call this area Intelligent Systems), then these two subjects are mandatory.
