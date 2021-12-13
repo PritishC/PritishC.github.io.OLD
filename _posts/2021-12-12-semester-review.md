@@ -47,9 +47,9 @@ Lecture material often touched on relevant research papers, for e.g. in topics s
 
 There were two programming assignments, one on coding schemes (Gamma, Golomb, arithmetic) and one on Naive Bayes text classification using multinomial and Poisson models. It's worth noting that on the second assignment, I had a valuable back-and-forth with the prof on email and he was very encouraging and gave me tips to deal with some implementation problems that I was facing. He even showed interest in the results that I obtained and these little gestures stay with you long after the course is over.
 
-All this being said, take this course only if you're already comfortable with the IITB system and have sufficient mathematical maturity. I've noticed grad students (including me) struggle with this course and senior undergrads having the time of their lives. I say this because the exams - and there are _three_ of them - involve interesting math/ML/datastructure questions where those who have been solving such problems in other courses already greatly benefit. Those who have implemented a bit of ML (played with tensor ops atleast) also benefit. This may not always be true for fresh grad students. If you do take this course, make sure to request the TAs for past exams for practice. Questions never repeat in these exams but concepts may.
+All this being said, take this course only if you're already comfortable with the IITB system and have sufficient mathematical maturity (or equivalently, have a decent background in machine learning). I've noticed grad students (including me) struggle with this course and senior undergrads having the time of their lives. I say this because the exams - and there are _three_ of them - involve interesting math/ML/datastructure questions where those who have been solving such problems in other courses already greatly benefit. Those who have implemented a bit of ML (played with tensor ops atleast) also benefit. This may not always be true for fresh grad students. If you do take this course, make sure to request the TAs for past exams for practice. Questions never repeat in these exams but concepts may.
 
-I took this course as an elective. It also used to be a prereq for CS728, but that may have changed.
+I took this course as an elective. It also used to be a prereq for CS728, but that may have changed - you'd have to confirm this with the instructor.
 
 CS699: Software Lab
 -------------------
@@ -65,9 +65,9 @@ This course in addition to others does make your course structure heavy, so plan
 CS777: MS R&D
 -------------
 
-Not really a "course", but graded like one. Also a core course with greater credits. You're supposed to pick an advisor in your stream and work with them on a research problem. I picked [Prof. Abir De](https://abir-de.github.io/) as I'm interested in graph mining, graph ML and network science. As part of the problems we explored in information diffusion, we also collaborated with a prof from another IIT - "we" meaning me, our prof and a senior undergraduate.
+Not really a "course", but graded like one. Also a core course with greater credits. You're supposed to pick an advisor in your stream and work with them on a research problem. I went with [Prof. Abir De](https://abir-de.github.io/) as I'm interested in graph mining, graph ML and network science. As part of the problems we explored in information diffusion, we also collaborated with a prof from another IIT - "we" meaning me, our prof and a senior undergraduate.
 
-I felt completely out of my depth for the first half of the semester and I guess that's normal for a rookie like me. I tried to gather background knowledge (for e.g., Jure Leskovec's CS224W) with enthusiasm but initially it didn't stick as much because I was very new. I suppose there's no shame in admitting that I had no idea what the hell was going on once we entered ML territory in the beginning. But with time, and some help from the senior undergrad (to whom I am heavily indebted), things began to make sense.
+I felt completely out of my depth for the first half of the semester and I guess that's normal for a rookie like me. I tried to gather background knowledge (for e.g., Jure Leskovec's CS224W) with enthusiasm but initially it didn't stick as much because I was very new. With time and work (and collaborating with the undergrad), things began to make much more sense.
 
 Final deliverables included a report and a presentation (atleast in my case). The presentation was graded by an external professor chosen by the advisor. Make sure that you know what you're talking about in sufficient depth and can answer follow-up questions. The external professor was satisfied with my answers.
 
