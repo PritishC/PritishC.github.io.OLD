@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'In Memory of Late Sri Pranabangshu Mukherjee'
 date: 2022-05-21
 permalink: /posts/2022/05/in-memoriam/
