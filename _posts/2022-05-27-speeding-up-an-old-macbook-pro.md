@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Speeding up an old Macbook Pro
 date: 2022-05-28
 permalink: /posts/2022/05/speed-up-macbook-pro/
