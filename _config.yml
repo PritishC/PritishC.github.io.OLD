@@ -84,10 +84,10 @@ author:
   name             : "Pritish Chakraborty"
   avatar           : "profile.jpg"
   bio              : "MS in CS @ IIT Bombay"
-  location         : "Delhi NCR"
+  location         : "Powai, Mumbai"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=rFRySV0AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
